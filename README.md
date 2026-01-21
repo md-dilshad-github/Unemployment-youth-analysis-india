@@ -1,9 +1,11 @@
 # Unemployment-youth-analysis-india
 Unemployment trends and youth labour market analysis in India using Excel and Python.
 
-## Objective: Practice Analysing Unemployment trends and to understand trend patterns, demographic differences, and economic implications using Excel and Python.
+## Objective: 
+Practice Analysing Unemployment trends and to understand trend patterns, demographic differences, and economic implications using Excel and Python.
 
-Data Source: Periodic Labour Force Survey (PLFS) – Key Indicators (Government of India)
+## Data Source:
+Periodic Labour Force Survey (PLFS) – Key Indicators (Government of India)
 
 ## Tools Used:
 - Microsoft Excel (data cleaning and visualisation)
